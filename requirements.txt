@@ -1,8 +1,6 @@
-requests==2.29.0
-beautifulsoup4
-streamlit
-numpy
-Pillow
-flask
-keras~=2.6.0
-tensorflow~=2.6.0
+numpy==1.25.1
+pandas==2.0.3
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
+tzdata==2023.3
